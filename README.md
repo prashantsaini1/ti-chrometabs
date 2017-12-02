@@ -6,7 +6,7 @@ Now show the web-content within your app without opening other apps or webview w
 * Fade transition animations
 
 
-![](https://github.com/prashantsaini1/ti-chrometabs/blob/master/sample.png)
+![](https://github.com/prashantsaini1/ti-chrometabs/blob/master/sample.gif)
 
 
 ## Requirements & Installation
