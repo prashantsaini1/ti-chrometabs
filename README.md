@@ -1,4 +1,4 @@
-# Titanium Android - Chrome Custom Tabs
+# Titanium Android - [Chrome Custom Tabs](https://developer.chrome.com/multidevice/android/customtabs)
 Now show the web-content within your app without opening other apps or webview with a nice-matching theme.
 
 * Improve your app's web-experience by utlisign powers of Google Chrome like security, cookies & lifecycle management.
