@@ -5,6 +5,8 @@ Now show the web-content within your app without opening other apps or webview w
 * Match the web-content with your app by giving custom 'Toolbar colors'
 * Fade transition animations
 
+### This module has been moved to at [Appcelerator Modules-Titanium Web Dialog](https://github.com/appcelerator-modules/titanium-web-dialog). Becoming a part of the core SDK it will be shipped in Ti SDK 7.1.0. Please refer the later repo for further updates.
+
 
 ![](https://github.com/prashantsaini1/ti-chrometabs/blob/master/sample.gif)
 
