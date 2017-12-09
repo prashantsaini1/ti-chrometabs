@@ -2,8 +2,8 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 1.0.0
-apiversion: 3
+version: 2.0.0
+apiversion: 4
 architectures: armeabi-v7a x86
 description: Android Chrome-Custom-Tabs in Titanium
 author: Prashant Saini
@@ -15,4 +15,4 @@ name: tichrometabs
 moduleid: ti.chrometabs
 guid: 3cc514cc-019a-4011-9279-a0607f193dff
 platform: android
-minsdk: 6.3.0.GA
+minsdk: 7.0.0.GA

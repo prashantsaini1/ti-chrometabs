@@ -4,9 +4,9 @@
 	<classpathentry kind="src" path="android/build/.apt_generated"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="/Users/prashant/android-sdk/platforms/android-25/android.jar"/>
-	<classpathentry kind="lib" path="/Users/prashant/Library/Application Support/Titanium/mobilesdk/osx/6.3.0.GA/android/titanium.jar"/>
-	<classpathentry kind="lib" path="/Users/prashant/Library/Application Support/Titanium/mobilesdk/osx/6.3.0.GA/android/kroll-common.jar"/>
-	<classpathentry kind="lib" path="/Users/prashant/Library/Application Support/Titanium/mobilesdk/osx/6.3.0.GA/android/kroll-apt.jar"/>
+	<classpathentry kind="lib" path="/Users/prashant/Library/Application Support/Titanium/mobilesdk/osx/7.0.0.GA/android/kroll-apt.jar"/>
+	<classpathentry kind="lib" path="/Users/prashant/Library/Application Support/Titanium/mobilesdk/osx/7.0.0.GA/android/kroll-common.jar"/>
+	<classpathentry kind="lib" path="/Users/prashant/Library/Application Support/Titanium/mobilesdk/osx/7.0.0.GA/android/titanium.jar"/>
 	<classpathentry kind="src" path=".apt_generated">
 		<attributes>
 			<attribute name="optional" value="true"/>
